@@ -1,0 +1,21 @@
+Personal Mini-Toolkit Plan
+
+Tools Included:
+1. Quick Notes Manager: Allows users to write down, view, and clear daily quick notes dynamically.
+2. Number Guessing Game: A fun game where the user tries to guess a secret number between 1 and 10 with hints.
+3. Tip Calculator: Calculates meal tips and total bill shares based on user inputs and service ratings.
+
+Exact Menu Text:
+==============================
+   WELCOME TO YOUR PERSONAL MINI-TOOLKIT
+==============================
+1. Quick Notes Manager
+2. Number Guessing Game
+3. Tip Calculator
+4. Quit
+==============================
+
+Concepts Used per Tool:
+- Quick Notes Manager: Lists (.append(), iteration), Conditionals, While loops, f-strings.
+- Number Guessing Game: While loops, Conditionals (if/elif/else), f-strings.
+- Tip Calculator: Conditionals, Arithmetic, f-strings.
