@@ -1,0 +1,14 @@
+# Personal Mini-Toolkit
+
+## What the Toolkit Does
+This project is a command-line utility suite offering three interactive tools built using Python:
+1. **Quick Notes Manager**: Dynamically creates, views, and clears personal notes using lists and loops.
+2. **Number Guessing Game**: An interactive game challenging users to guess a random number with hints.
+3. **Tip Calculator**: Computes customized tip percentages and bill splits among multiple people.
+
+## How to Run It
+1. Ensure Python 3 is installed on your system.
+2. Open your terminal or command prompt.
+3. Run the script using the command:
+   ```bash
+   python toolkit.py
